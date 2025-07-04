@@ -1,15 +1,15 @@
-FT_UMJ_INFORMATIKA_Tugas_Akhir_Semester_2_Struktur_Data_Analisis_Restaurant_Waitlist_System
-TUGAS AKHIR SEMESTER 2 STRUKTUR DATA DAN ANALISA
-Dosen : MIRZA SUTRISNO, S.SI., M.KOM
+# FT_UMJ_INFORMATIKA_Tugas_Akhir_Semester_2_Struktur_Data_Analisis_Restaurant_Waitlist_System
+## TUGAS AKHIR SEMESTER 2 STRUKTUR DATA DAN ANALISA
+- Dosen : MIRZA SUTRISNO, S.SI., M.KOM
 
-YOUTUBE LINK https://youtu.be/VsQ9DdqIiCU
-ACADEMIA PDF :
-MEMBER :
-24040700107 M.Daffa
-24040700110 Muhammad Alif Razaqi
-24040700105 Nurul Hakim
+## YOUTUBE LINK https://youtu.be/VsQ9DdqIiCU
+## ACADEMIA PDF : https://www.academia.edu/130334973/FTUMJ_INF_TASDA2_FINAL_RWS_ACADEMIA
+## MEMBER :
+- 24040700107 M.Daffa
+- 24040700110 Muhammad Alif Razaqi
+- 24040700105 Nurul Hakim
 
-TUJUAN :
+## TUJUAN :
 Memberikan opsi kepada pedagang kecil, dan pedagang keliling sebuah system seketika mereka di serbu oleh banyaknya pembeli.
 Sistem yang efisien dan murah, tidak diperlukan adanya alat terpisah dari sebuah smartphone yang dipunyai oleh pedagang.
 
